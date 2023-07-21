@@ -16,6 +16,8 @@ public class Main {
 //     Em seguida, exiba uma mensagem, com seu nome, as iniciais do seu nome e sobrenome
 //     e sua data de nascimento no formato "dd / mm / aaaa"
 
+
+        //controle de fluxo if else e laco de repeticao for
         String name;
         String lastName;
         String chars;
