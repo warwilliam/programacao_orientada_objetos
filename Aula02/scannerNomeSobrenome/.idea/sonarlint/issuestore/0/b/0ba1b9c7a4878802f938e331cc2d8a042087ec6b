@@ -1,0 +1,9 @@
+
+G
+java:S1481",Remove this unused "inNames" local variable.(äÊ†‚ıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÙÍÎ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ¡î–úÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ş²¼ùúÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(ñÉıÔ
+T
+java:S1128">Remove this unused import 'java.util.logging.SimpleFormatter'.(ÇöÁ
