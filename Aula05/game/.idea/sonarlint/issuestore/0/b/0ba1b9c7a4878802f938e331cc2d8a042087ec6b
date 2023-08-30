@@ -1,0 +1,10 @@
+
+Q
+java:S1854"6Remove this useless assignment to local variable "c2".(ø÷«Îşÿÿÿÿ
+B
+java:S1481"'Remove this unused "c2" local variable.(ø÷«Îşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(æ÷·à
+S	java:S106"9Replace this use of System.out or System.err by a logger.(÷’¾üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(•‚ØÊ
+J
+java:S1128"4Remove this unused import 'org.w3c.dom.ls.LSOutput'.(Ò½¾Š
