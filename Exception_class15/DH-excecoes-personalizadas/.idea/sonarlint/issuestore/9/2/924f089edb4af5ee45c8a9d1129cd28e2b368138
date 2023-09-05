@@ -1,0 +1,6 @@
+
+S
+java:S1854"8Remove this useless assignment to local variable "data".(Ö­ˆÇûÿÿÿÿ
+D
+java:S1481")Remove this unused "data" local variable.(Ö­ˆÇûÿÿÿÿ
+E	java:S106"+Replace this use of System.err by a logger.(ïù¯¯ûÿÿÿÿ

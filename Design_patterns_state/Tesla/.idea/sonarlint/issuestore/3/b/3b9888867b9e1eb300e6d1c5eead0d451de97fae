@@ -1,0 +1,9 @@
+
+u	java:S116"[Rename this field "VELOCIDAD_MAXIMA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÀ˜Õøÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(àÀ˜Õøÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(÷†¬ˆúÿÿÿÿ
+E	java:S106!"+Replace this use of System.out by a logger.(É£æ±ùÿÿÿÿ
+Q	java:S125,"<This block of commented-out lines of code should be removed.(À™¾
+E	java:S106."+Replace this use of System.out by a logger.(Þ±óîþÿÿÿÿ
+E	java:S1066"+Replace this use of System.out by a logger.(ß·¥¼þÿÿÿÿ

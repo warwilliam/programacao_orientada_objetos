@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be9b8736-aaa3-4b6a-b56c-d7cf88fe1e31" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Collections_class14/Bank_account/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Collections_class14/Bank_account/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections_class14/Bank_account/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Collections_class14/Bank_account/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections_class14/DH-Arrays/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Collections_class14/DH-Arrays/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections_class14/DH-Arrays/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Collections_class14/DH-Arrays/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections_class14/DH-colecoes/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Collections_class14/DH-colecoes/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections_class14/DH-colecoes/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" afterPath="$PROJECT_DIR$/../../Collections_class14/DH-colecoes/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections_class14/DH-operacoes-colecoes/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Collections_class14/DH-operacoes-colecoes/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections_class14/DH-operacoes-colecoes/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Collections_class14/DH-operacoes-colecoes/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections_class14/Harbor/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Collections_class14/Harbor/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections_class14/Time/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Collections_class14/Time/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections_class14/Time/.idea/sonarlint/issuestore/0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b" beforeDir="false" afterPath="$PROJECT_DIR$/../../Collections_class14/Time/.idea/sonarlint/issuestore/0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aula atual 14.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2Una8ekkW9aMegtCG5YkSxWhQzF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/WAR/Desktop/Programacao_orientada_a_objetos/Design_patterns_state/shopState"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be9b8736-aaa3-4b6a-b56c-d7cf88fe1e31" name="Changes" comment="" />
+      <created>1693577642169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693577642169</updated>
+    </task>
+    <servers />
+  </component>
+</project>
