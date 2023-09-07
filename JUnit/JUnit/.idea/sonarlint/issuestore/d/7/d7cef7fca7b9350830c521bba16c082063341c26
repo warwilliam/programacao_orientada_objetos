@@ -1,0 +1,12 @@
+
+v
+java:S1488@"[Immediately return this expression instead of assigning it to the temporary variable "age".(üÔ«Šıÿÿÿÿ
+U
+java:S62135":Rename this variable to not match a restricted identifier.(Ï‰æÕúÿÿÿÿ
+R
+java:S11176"7Rename "age" which hides the field declared at line 12.(à¹‹¥úÿÿÿÿ
+E	java:S106:"+Replace this use of System.out by a logger.(§Îá’ûÿÿÿÿ
+A
+java:S1168<"+Return an empty collection instead of null.(¥¹ï
+R
+java:S1117@"7Rename "age" which hides the field declared at line 12.(üÔ«Šıÿÿÿÿ
