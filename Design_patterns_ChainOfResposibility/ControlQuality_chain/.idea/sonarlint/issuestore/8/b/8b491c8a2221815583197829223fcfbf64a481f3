@@ -1,0 +1,5 @@
+
+…
+java:S4165 "cRemove this useless assignment; "batch" already holds the assigned value along all execution paths.(ÌªÁ¨ûÿÿÿÿ8¿…ôà§1
+Q
+java:S1656 "/Remove or correct this useless self-assignment.(ÌªÁ¨ûÿÿÿÿ8Å…ôà§1
