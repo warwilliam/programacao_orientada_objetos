@@ -13,3 +13,5 @@ b
 2src/main/java/org/example/service/AccessProxy.java,6\9\6905bfd5f4be3da166c2603e3e459f05b1b36fe7
 ]
 -src/main/java/org/example/model/Document.java,1\3\135e91405cd51eb8425b6ac83b3a55efdd472d54
+a
+1src/test/java/org/example/model/DocumentTest.java,9\4\94e13f4b90753557f29cab3dff84fd6680084a8a

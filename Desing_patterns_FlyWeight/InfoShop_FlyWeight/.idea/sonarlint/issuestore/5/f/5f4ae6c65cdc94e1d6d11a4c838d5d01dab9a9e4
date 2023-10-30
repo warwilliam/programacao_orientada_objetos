@@ -1,0 +1,12 @@
+
+\
+java:S1854":Remove this useless assignment to local variable "pcWin3".(†š†ıÿÿÿÿ8Ú•Öª¨1
+\
+java:S1854":Remove this useless assignment to local variable "pcWin2".(¬Öî¤ùÿÿÿÿ8Â¾Öª¨1
+M
+java:S1481"+Remove this unused "pcWin2" local variable.(¬Öî¤ùÿÿÿÿ8È¾Öª¨1
+M
+java:S1481"+Remove this unused "pcWin3" local variable.(†š†ıÿÿÿÿ8É¾Öª¨1
+E	java:S106"+Replace this use of System.out by a logger.(¡¨öğıÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¦ÙÅ©üÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(óÈÔ•

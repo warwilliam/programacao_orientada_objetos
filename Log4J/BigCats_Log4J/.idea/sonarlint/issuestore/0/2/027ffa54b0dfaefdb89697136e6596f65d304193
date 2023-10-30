@@ -1,0 +1,11 @@
+
+Z	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+[	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(‘¶§‡
+R
+java:S2629)"7Use the built-in formatting to construct this argument.(‘âÌÛúÿÿÿÿ
+M
+java:S2629."7Use the built-in formatting to construct this argument.(ç²Ã¡
+\
+java:S3457)"AFormat specifiers should be used instead of string concatenation.(‘âÌÛúÿÿÿÿ
+W
+java:S3457."AFormat specifiers should be used instead of string concatenation.(ç²Ã¡

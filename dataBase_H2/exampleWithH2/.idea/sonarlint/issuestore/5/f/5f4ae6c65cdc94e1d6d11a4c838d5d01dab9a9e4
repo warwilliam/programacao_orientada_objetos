@@ -1,0 +1,31 @@
+
+`	java:S112W"FDefine and throw a dedicated exception instead of using a generic one.(ş¸…çøÿÿÿÿ
+[	java:S112["FDefine and throw a dedicated exception instead of using a generic one.(™Ş¡ü
+k
+java:S1192"UDefine a constant instead of duplicating this literal "INSERT INTO usuario " 5 times.(ğğÿ¾
+]
+java:S1192"GDefine a constant instead of duplicating this literal "VALUES" 5 times.(€‹‡Ë
+v
+java:S1192"[Define a constant instead of duplicating this literal "(id, name, lastName, age) " 5 times.(™¦ğ°ûÿÿÿÿ
+^
+java:S2259Q"HA "NullPointerException" could be thrown; "connection" is nullable here.(ôêÂœ
+b
+java:S2095]"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+b
+java:S2095@"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+j
+java:S2095m"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ñüšüÿÿÿÿ
+\
+java:S3457O"AFormat specifiers should be used instead of string concatenation.(Î³à¥úÿÿÿÿ
+?
+java:S2115X")Add password protection to this database.(ƒÙİò
+@	java:S106a"+Replace this use of System.out by a logger.(öö±â
+d
+java:S1128
+"NRemove this unused import 'org.apache.logging.log4j.core.config.Configurator'.(¯ˆÅ
+P
+java:S1128":Remove this unused import 'javax.swing.plaf.nimbus.State'.(ğÒ´Ò
+R
+java:S1128"7Remove this unused import 'javax.xml.transform.Result'.(âÓ¸ûÿÿÿÿ
+C
+java:S10687"-Remove this unused "SQLDELETE" private field.(¾À¯³

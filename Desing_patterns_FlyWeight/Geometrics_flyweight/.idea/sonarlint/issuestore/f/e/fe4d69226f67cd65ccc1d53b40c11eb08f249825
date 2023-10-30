@@ -1,0 +1,9 @@
+
+~
+java:S1319	"hThe type of "triangleMap" should be an interface such as "Map" rather than the implementation "HashMap".(ŒÚº
+d
+java:S3824"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(Ä‡¯²
+3
+java:S2386	"Make this member "protected".(ŒÚº
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ÊæÌè

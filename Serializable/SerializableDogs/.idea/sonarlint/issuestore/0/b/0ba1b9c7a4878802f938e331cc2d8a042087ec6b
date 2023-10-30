@@ -1,0 +1,18 @@
+
+r
+java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(ø¾ £üÿÿÿÿ8’ÜÓüª1
+j
+java:S2095,"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(‚…õö8‘ÜÓüª1
+p
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(™ßÂßÿÿÿÿÿ8’ÜÓüª1
+q
+java:S2095-"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(Ş½Ùùÿÿÿÿ8’ÜÓüª1
+Z
+java:S1854"8Remove this useless assignment to local variable "dog1".(ßÈöêşÿÿÿÿ8ß½üª1
+K
+java:S1481")Remove this unused "dog1" local variable.(ßÈöêşÿÿÿÿ8â½üª1
+L	java:S106!"+Replace this use of System.out by a logger.(Ã†‘áûÿÿÿÿ8æ½üª1
+>
+java:S1116!"Remove this empty statement.(Ã†‘áûÿÿÿÿ8æ½üª1
+L	java:S106#"+Replace this use of System.out by a logger.(Æçµ«øÿÿÿÿ8æ½üª1
+G	java:S1067"+Replace this use of System.out by a logger.( ¥ŒŸ8……Òüª1

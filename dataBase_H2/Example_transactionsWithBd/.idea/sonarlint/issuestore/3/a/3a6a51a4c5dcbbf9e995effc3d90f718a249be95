@@ -1,0 +1,26 @@
+
+g	java:S112G"FDefine and throw a dedicated exception instead of using a generic one.(ş¸…çøÿÿÿÿ8¿•ÒÖ©1
+b	java:S112L"FDefine and throw a dedicated exception instead of using a generic one.(£°öÓ8¿•ÒÖ©1
+a	java:S112Y"FDefine and throw a dedicated exception instead of using a generic one.(øÿ‹t8¿•ÒÖ©1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÅÏö8À•ÒÖ©1
+y
+java:S1488^"\Immediately return this expression instead of assigning it to the temporary variable "resp".(´ãƒö8ÅèÒÖ©1
+e
+java:S2259C"HA "NullPointerException" could be thrown; "connection" is nullable here.(ôêÂœ8Ï–ÒÖ©1
+i
+java:S2095N"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8Ï–ÒÖ©1
+l
+java:S20950"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ô·Ü¢8Ï–ÒÖ©1
+i
+java:S2095""GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8Ï–ÒÖ©1
+i
+java:S2095["GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8Ï–ÒÖ©1
+l
+java:S2095&"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(´Àœü8Ï–ÒÖ©1
+q
+java:S20957"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ò•¢­ùÿÿÿÿ8ü¼ÜÖ©1
+J
+java:S4925H"-Remove this "Class.forName()", it is useless.(›‡ªœ8Ø–ÒÖ©1
+F
+java:S2115I")Add password protection to this database.(ƒÙİò8Ù–ÒÖ©1
+G	java:S106R"+Replace this use of System.out by a logger.(ï«ÚĞ8Ú–ÒÖ©1
